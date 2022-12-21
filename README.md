@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GiftedLane
-- 👀 I’m interested in AWS Cloud & DevOps Tools
+- 👀 I’m interested in AWS & DevOps Tools
 - 🌱 I’m currently learning all things AWS
 - 💞️ I’m looking to collaborate on AWS projects/speaking engagements
 - 📫 How to reach me hello@giftedlane.com
